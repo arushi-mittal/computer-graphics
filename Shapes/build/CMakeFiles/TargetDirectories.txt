@@ -1,0 +1,9 @@
+/home/arushi/2019101120/build/CMakeFiles/rebuild_cache.dir
+/home/arushi/2019101120/build/CMakeFiles/edit_cache.dir
+/home/arushi/2019101120/build/CMakeFiles/glad.dir
+/home/arushi/2019101120/build/CMakeFiles/2019101120.dir
+/home/arushi/2019101120/build/libraries/glfw/CMakeFiles/rebuild_cache.dir
+/home/arushi/2019101120/build/libraries/glfw/CMakeFiles/edit_cache.dir
+/home/arushi/2019101120/build/libraries/glfw/src/CMakeFiles/rebuild_cache.dir
+/home/arushi/2019101120/build/libraries/glfw/src/CMakeFiles/edit_cache.dir
+/home/arushi/2019101120/build/libraries/glfw/src/CMakeFiles/glfw.dir
